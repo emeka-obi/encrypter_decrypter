@@ -1,0 +1,10 @@
+SCENARIO
+
+World War 3: North Korea is desperately trying to remove all US military satellites off the earth's orbit, 
+to prevent the united states from tracking the activites withtin the country. The first step taken by the 
+United States is to 
+encrypt all the information regarding longitude and charactersics of their satellites before further actions can be taken.
+This software is capable of locating military satellites from a database (Kaggle) and encrypting all the information regarding 
+the longtiude and charadcterstics of the satellite using AES-257 encryption algorithm.
+Finally, the software allows the encrypted data to be easily dowbnloaded by the click of a button. 
+
