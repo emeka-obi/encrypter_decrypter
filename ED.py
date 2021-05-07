@@ -91,7 +91,10 @@ def GUI(x, y):
     put_link("Encrypted_text", url = "https://replit.com/@Emeka_/BurlyFunnyParallelport#encrypt.txt")
     put_text("")
     put_link("Decrypted_text", url = "https://replit.com/@Emeka_/decrypt#decrypted.txt")
-    # put_file("Here is the link to download the decrypted data",y)
+    
+    put_text("")
+    put_markdown('The source code for this application can be found [here](https://github.com/emeka-obi/encrypter_decrypter/blob/main/ED.py)')
+
 
    
 def main():
