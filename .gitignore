@@ -1,0 +1,8 @@
+#idea
+*.idea
+
+#DS_Stor
+.DS_STORE
+
+#Vscode
+.vscode
